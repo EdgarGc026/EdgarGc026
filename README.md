@@ -6,14 +6,15 @@ _Web Developer_ ![](https://github.com/EdgarGc026/Edgargc026/blob/master/codigo.
 ![](https://github.com/EdgarGc026/Edgargc026/blob/master/php.png?raw=true) 
 ![](https://github.com/EdgarGc026/Edgargc026/blob/master/html-5.png?raw=true)
 ![](https://github.com/EdgarGc026/Edgargc026/blob/master/css.png?raw=true)
-```
+
+<pre>
 const edgargc = {
   code: [Javascript, HTML, PHP, Java],
   tools: [Windows and Linux Terminal],
   frameworks: [Laravel, Spring, Bootstrap, Angular],
   degree: [Computer technology student]
 }
-```
+</pre>
 
 ## 📫 Contact me
 - 🐦[Twitter](https://twitter.com/EdgarGc026) 
