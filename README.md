@@ -6,6 +6,7 @@ Enthusiast for web technologies and computer science in general.
 ## More info that interest you 
 
 **Technologies that i work.**
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/edgargc026/assets/master/5Yx8.gif" width=380 height=300.345 />
 
 <code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/consolaComandos.jpg"></code>
 <code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/git.png"></code>
