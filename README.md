@@ -4,12 +4,27 @@ _Web Developer_ With more than 3 years in the creation of applications and web p
 Enthusiast for web technologies and computer science in general.
 
 ## More info that interest you 
+
+Technologies that i work.
+
+<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/consolaComandos.jpg"></code>
+<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/git.png"></code>
+<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/html-5.png"></code>
+<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/css.png"></code>
+<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/vuejs.png"></code>
+<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/javascript.png"></code>
+<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/php.png"></code>
+
+
+
 ```javascript
 const edgargc = {
-  code: [Javascript, HTML, PHP, Java],
-  tools: [Windows and Linux Terminal],
-  frameworks: [Laravel, Spring, Bootstrap, Angular],
-  degree: [Computer technology student]
+  AboutMe: [
+    'Degree'     => 'I'm computer technology student', 
+    'Experience' => 'Three years of experiences developing with web technologies',
+    'Hobbies'    => 'My favorite hobby is dancing, play and watch soccer',
+    'Others'     => 'We can talk about any topic you like',
+  ]
 }
 ```
 
