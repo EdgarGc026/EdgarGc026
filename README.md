@@ -5,7 +5,7 @@ Enthusiast for web technologies and computer science in general.
 
 ## More info that interest you 
 
-Technologies that i work.
+**Technologies that i work.**
 
 <code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/consolaComandos.jpg"></code>
 <code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/git.png"></code>
@@ -20,11 +20,12 @@ Technologies that i work.
 ```javascript
 const edgargc = {
   AboutMe: [
-    'Degree'     => 'I'm computer technology student', 
+    'Degree'     => 'I am computer technology student', 
     'Experience' => 'Three years of experiences developing with web technologies',
     'Hobbies'    => 'My favorite hobby is dancing, play and watch soccer',
     'Others'     => 'We can talk about any topic you like',
   ]
+  
 }
 ```
 
