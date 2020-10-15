@@ -26,7 +26,6 @@ const edgargc = {
     'Hobbies'    => 'My favorite hobby is dancing, play and watch soccer',
     'Others'     => 'We can talk about any topic you like',
   ]
-  
 }
 ```
 
