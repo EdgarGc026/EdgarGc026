@@ -7,17 +7,6 @@ Enthusiast for web technologies and computer science in general.
 
 **Technologies that i work.**
 
-
-<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/consolaComandos.jpg"></code>
-<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/git.png"></code>
-<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/html-5.png"></code>
-<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/css.png"></code>
-<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/vuejs.png"></code>
-<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/javascript.png"></code>
-<code> <img height="20" src="https://raw.githubusercontent.com/edgargc026/assets/master/php.png"></code>
-
-
-
 ```javascript
 const edgargc = {
   AboutMe: [
