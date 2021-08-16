@@ -3,20 +3,20 @@
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=EdgarGc026.EdgarGc026)](https://github.com/edgargc026) [![GitHub followers](https://img.shields.io/github/followers/edgargc026.svg?style=social&label=Follow)](https://github.com/edgargc026?tab=followers)
 
 I'm Edgar González! 
-- <i>Currently:</i> FullStack Freelance. 
+- <i>Currently:</i> Backend Developer. 
 - <i>Previously:</i> Computer Technologies at the Universidad Veracruzana.
 
 <h2>💻 I'm Currently Learning</h2>
-
-__Platzi__
-- FullStack JavaScript
+- Frontend and Backend JavaScript
 - Backend PHP
-- Mobile Dev
 
-<h2>Currently working on:</h2>
+<h2>Currently working on two projects:</h2>
 <h4>#JS Projects 💯</h4>
 
-__JS Projects__ is a challenge that I created for myself to get proficient in JavaScript by building 10 Full-stack projects using the moost (and modern) tools on the market in this quarantine period.
+__JS Projects__ is a challenge that I created for myself to get proficient in JavaScript by building 10 Full-stack projects using the most (and modern) tools on the market in this quarantine period.
+
+<h4>#PHP Projects 💯</h4>
+__PHP Projects__ is a challenge that I created for myself to get proficient in PHP by building 5 Backend projects using best practices and avoid the code smell.
 
 I document my experience throughout this process, also shared information about tool's that i use and you can find them on my [Medium Stories](https://edggc026.medium.com/).
 
