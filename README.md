@@ -4,7 +4,7 @@
 
 I'm Edgar González! 
 - <i>Currently:</i> Backend Developer. 
-- <i>Previously:</i> Computer Technologies Student at the Universidad Veracruzana.
+
 
 <h2>💻 I'm Currently Learning</h2>
 
