@@ -2,13 +2,7 @@
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=EdgarGc026.EdgarGc026)](https://github.com/edgargc026) [![GitHub followers](https://img.shields.io/github/followers/edgargc026.svg?style=social&label=Follow)](https://github.com/edgargc026?tab=followers)
 
-I'm Edgar González! 
-- <i>Currently:</i> FullStack Developer. 
-
-
-<h2>💻 My knowdle 🤓</h2>
-
-- Frontend
+I'm Edgar González!. I am a FullStack developer focused on PHP, Node and Java. I have experience working with: Laravel, PHP and Node. As well as frontend technologies such as: Vue, jQuery and JavaScript. 
 
   <span>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</span> 
   <span>![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</span> 
@@ -16,17 +10,17 @@ I'm Edgar González!
   <span>![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)</span>
   <span>![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)</span>
   <span>![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)</span>
-
-- Backend
   
   <span>![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</span>
   <span>![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</span>
   <span>![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</span>
   <span>![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)</span>
   <span>![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</span>
+  
 
-<h2>Currently working on two projects:</h2>
-<h3>#JS Projects 💯</h4>
+<h2>Currently working</h2>
+
+<h3>JS Projects 💯</h3>
 
 __JS Projects__ is a challenge that I created for myself to get proficient in JavaScript by building 10 Full-stack projects using the most (and modern) tools on the market in this quarantine period.
 
