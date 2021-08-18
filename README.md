@@ -26,11 +26,11 @@ I'm Edgar González!
   <span>![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</span>
 
 <h2>Currently working on two projects:</h2>
-<h4>#JS Projects 💯</h4>
+<h3>#JS Projects 💯</h4>
 
 __JS Projects__ is a challenge that I created for myself to get proficient in JavaScript by building 10 Full-stack projects using the most (and modern) tools on the market in this quarantine period.
 
-<h4>#PHP Projects 💯</h4>
+<h3>PHP Projects 💯</h4>
 
 __PHP Projects__ is a challenge that I created for myself to get proficient in PHP by building 5 Backend projects using best practices and avoid the code smell.
 
