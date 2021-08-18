@@ -28,7 +28,7 @@ __JS Projects__ is a challenge that I created for myself to get proficient in Ja
 
 __PHP Projects__ is a challenge that I created for myself to get proficient in PHP by building 5 Backend projects using best practices and avoid the code smell.
 
-<br/> I document my experience throughout this process, also shared information about tool's that i use and you can find them on my <a href="https://edggc026.medium.com/" target="_blank">![Medium Stories](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+I document my experience throughout this process, also shared information about tool's that i use and you can find them on my <a href="https://edggc026.medium.com/" target="_blank">![Medium Stories](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 <!-- Check out the GitHub repository:
 <div>
